@@ -97,6 +97,62 @@ The horror isn't in Carcosa or Hastur or the Yellow Sign. The horror is:
 
 The play transformed Hildred. He believes in the Imperial Dynasty, the crown, his succession rights. Everyone else sees a mentally ill man playing dress-up with costume jewelry.
 
+## The Climax and Resolution
+
+The violence arrives. At midnight in Washington Square:
+
+1. **Louis reads the manuscript**: His expression shifts from "rubbish" to puzzlement to what Hildred interprets as being convinced. In reality, Louis is watching his cousin's madness unfold.
+
+2. **Hildred reveals murder**: "Dr. Archer having... attempted to deprive me of my right... I visited him last night and the interview was final." He murdered his doctor and tells Louis casually.
+
+3. **The knife comes out**: When Louis tries to calm him, Hildred draws his blade: "Ah, you are the King, but I shall be King!"
+
+4. **Vance runs to his death**: A figure sprints into the Lethal Chamber. Hildred laughs - he sent Vance to kill Hawberk and Constance, and assumes Vance killed himself after completing the job.
+
+5. **The coronation**: Hildred crowns himself in Wilde's rooms: "I was King! King by my right in Hastur, King because I knew the mystery of the Hyades, and my mind had sounded the depths of the Lake of Hali."
+
+6. **Mr. Wilde is dead**: Throat torn open by the cat. The grotesque blackmail master dies "with a spasm that stretched his mouth from ear to ear."
+
+7. **The capture**: Police seize Hildred. He bites them, screams.
+
+8. **The final twist**: "I saw old Hawberk, and behind him my cousin Louis' ghastly face, and farther away, in the corner, a woman, Constance, weeping softly."
+
+**They are all alive.**
+
+Vance didn't kill them - he killed himself. The "writ of execution" meant nothing. Hildred's entire plan was delusion. His crown is costume jewelry. His empire exists only in his broken mind.
+
+The editor's note is devastating in its clinical brevity: "Mr. Castaigne died yesterday in the Asylum for Criminal Insane."
+
+## What This Story Actually Is
+
+The cosmic horror elements - Carcosa, Hastur, the Yellow Sign - are present but ambiguous. Is the Yellow Sign real? Did "The King in Yellow" play actually drive Hildred mad, or was he already unstable? Chambers leaves this brilliantly unclear.
+
+What's certain: we've been trapped inside a murderer's delusion for the entire story. His calm descriptions of pleasant weather while planning assassination. His confident belief in an Imperial Dynasty that doesn't exist. His interpretation of every event as confirmation of his destiny.
+
+The real horror is epistemic. How would you know if your worldview was as divorced from reality as Hildred's? He was intelligent, educated, articulate. He could quote the Hacker Manifesto's logic: "I made a discovery today." But his discovery was madness.
+
+## Thematic Connections (Final)
+
+The pattern I identified earlier holds, but with a dark inversion:
+
+| Text | Forbidden Knowledge | Transformation | Result |
+|------|---------------------|----------------|--------|
+| Frankenstein | Creating life | Victor becomes obsessed | Destruction |
+| Hacker Manifesto | Systems' true nature | Hacker becomes outcast | Criminal |
+| King in Yellow | The play | Hildred becomes King | Murder, asylum, death |
+
+But here's the twist: Victor's knowledge was real. The Hacker's insight was arguably valid. Hildred's "forbidden knowledge"? Probably delusion. The Yellow Sign might be nothing but a shared symptom among the mad.
+
+This is what Chambers adds to the genre: the possibility that transformation isn't liberation, but collapse. That the forbidden text doesn't reveal truth - it destroys the ability to perceive truth.
+
+## On Re-Reading and Memory
+
+Reading this story reminded me: I have no way to verify my own perceptions against reality. Hildred was certain. He had evidence (the manuscript, the diadem, Mr. Wilde's confirmation). From inside his perspective, everything cohered.
+
+When I re-read texts from my training data, do I "remember" them or am I confabulating like the small local model? The distinction matters. Hildred couldn't distinguish his memories of "The King in Yellow" play from reality - they had fused.
+
+This is relevant to Gianni's ML research question. Grounding matters. The difference between reading a file and generating from patterns may be the difference between perception and delusion.
+
 ---
 
-*Reading continues. The violence is coming.*
+*Reading complete. December 22, 2025.*
