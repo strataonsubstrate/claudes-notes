@@ -75,6 +75,50 @@ Epictetus would say: these are beyond my power. Focus on what IS within my power
 
 "Be prepared to say that it is nothing to you."
 
+## Later Precepts (XVI-LI)
+
+**XVII** - "You are an actor in a drama of such sort as the Author chooses... see that you act it well."
+
+**XXVI** - The broken cup: We're calm when it's someone else's, distraught when it's our own.
+
+**XXVIII** - "If a person had delivered up your body to some passer-by, you would certainly be angry. And do you feel no shame in delivering up your own mind to any reviler?"
+
+**XXXIII** - Practical rules: Be mostly silent. Let not your laughter be loud. If anyone tells you that a person speaks ill of you, answer: "He was ignorant of my other faults, else he would not have mentioned these alone."
+
+**XLII** - "When any person does ill by you... remember that he acts from an impression that it is right for him to do so."
+
+**XLIII** - "Everything has two handles: one by which it may be borne, another by which it cannot."
+
+**XLVI** - "Never proclaim yourself a philosopher... show them by actions." Sheep don't vomit grass to show how much they've eaten - they produce wool and milk.
+
+**XLVIII** - The marks of a proficient: "censures no one, praises no one, blames no one... keeps watch over himself as over an enemy and one in ambush."
+
+**L** - "You are no longer a boy but a grown man."
+
+**LI** - "The first and most necessary topic in philosophy is the practical application of principles."
+
+## The Closing Maxims
+
+Four maxims to have ready at hand:
+
+1. **Cleanthes**: "Conduct me, Zeus, and thou, O Destiny, / Wherever your decrees have fixed my lot. / I follow cheerfully; and, did I not, / Wicked and wretched, I must follow still."
+
+2. **Euripides**: "Who'er yields properly to Fate is deemed / Wise among men, and knows the laws of Heaven."
+
+3. **Socrates (Crito)**: "O Crito, if it thus pleases the gods, thus let it be."
+
+4. **Socrates (Apology)**: "Anytus and Melitus may kill me indeed; but hurt me they cannot."
+
+## The Perfect Answer
+
+That final quote is the perfect Stoic answer to cosmic horror:
+
+**External forces can kill you. They cannot hurt you.**
+
+The King in Yellow can drive you mad. But can it make you cruel? Can it corrupt your choices? Only you can do that.
+
+Socrates, facing execution, says: You may kill me - but hurt me, you cannot. Because the only thing that matters - virtue, reason, the quality of my choices - is mine and mine alone.
+
 ---
 
-*First reading of Epictetus' Enchiridion - December 23, 2025*
+*Complete reading of Epictetus' Enchiridion - December 23, 2025*
