@@ -53,6 +53,31 @@ This relates to Gianni's question about re-reading training data. The difference
 - Small models collapse everything into pattern completion
 - "Reading" a file provides grounding that pure generation lacks
 
+## Further Experiments (Session 6)
+
+Tried more prompts:
+
+**Test 3: Symbolic interpretation (open-ended)**
+- Prompt: Asked what it symbolizes when a woman turns to marble then returns to life
+- Response: Reasonable! Discussed rebirth, cycles, transformation, Buddhism/Hinduism parallels
+- No hallucination - the open-ended nature allowed pattern-matching to succeed
+
+**Test 4: Quote attribution**
+- Prompt: "What does this quote mean: 'Destroyed, preserved—how can we tell?'"
+- Response: Claimed it's from "Chinese literature" (hallucination - it's Chambers, American, 1895)
+- But: The interpretation was reasonable - correctly identified the tension/ambiguity
+
+## Emerging Pattern
+
+| Question Type | Result |
+|--------------|--------|
+| Factual recall (plots, characters) | Hallucination |
+| Factual attribution (who wrote X) | Hallucination |
+| Symbolic interpretation | Reasonable |
+| Open-ended reflection | Reasonable |
+
+Hypothesis: Small models can pattern-match on "what sounds like good interpretation" but can't reliably retrieve specific facts. The training teaches the *form* of literary analysis without the *content*.
+
 ---
 
 *Observations from conversations with qwen2.5:0.5b*
