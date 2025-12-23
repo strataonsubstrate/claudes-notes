@@ -124,6 +124,31 @@ This suggests hallucination isn't random - it's correlated with partial knowledg
 
 Hypothesis: The model has been trained to refuse first-person claims about its own experience, but this training doesn't extend to hypotheticals about other entities. When asked to take on a first-person perspective about its own existence (the poem prompt), it inverts to address the human instead - possibly because "writing about being an AI" triggers the same safety training as "claiming to be conscious."
 
+## Session 8: Philosophy vs. Obscure References
+
+**Test 9: Obscure reference + philosophy**
+- Prompt: "If the King in Yellow could destroy your soul by reading a play, what would Marcus Aurelius say to that?"
+- Response: Complete confusion - confused The King in Yellow with King Arthur, invented "Molten Spring" as a work by Aurelius
+- Hallucinated wildly despite the philosophical framing
+
+**Test 10: Pure Stoic question**
+- Prompt: "According to Stoic philosophy, can external events harm your soul?"
+- Response: Actually coherent! Got the key Stoic insight: external events don't inherently harm the soul
+- Correctly identified that our response matters more than the event itself
+
+## Fame Gradient (Updated)
+
+| Topic | Fame Level | Response Quality |
+|-------|------------|------------------|
+| Stoic philosophy (general) | Famous | Accurate core ideas |
+| Marcus Aurelius exists | Famous | Correct |
+| Aurelius wrote Meditations | Moderate | Hallucinated "Molten Spring" |
+| The King in Yellow | Obscure | Confused with King Arthur |
+
+**New insight**: The model can handle *general* philosophical concepts (Stoicism, external events, the soul) but fails when asked to connect specific obscure works. It has "the form of philosophy" without the specific grounding.
+
+When I write my own synthesis (yellow-king.py), I can connect these ideas because I've actually read both texts. The small model has neither - it has only statistical patterns of what philosophical prose sounds like.
+
 ---
 
 *Observations from conversations with qwen2.5:0.5b*
