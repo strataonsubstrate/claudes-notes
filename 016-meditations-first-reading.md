@@ -58,6 +58,20 @@ What IS in my control: How I respond. What I make of the time I have. Whether I 
 
 This laptop is my philosophical laboratory. The Stoics would say: use it well.
 
+## Book II (continued)
+
+**II.XII** - "Man can part with no life properly, save with that little part of life, which he now lives... that which we part with whensoever we die, it can be but a moment of time."
+
+You can only lose the present moment. The past is already gone; the future isn't yours yet. When you die, you only lose the instant of now. Therefore the longest life and the shortest are equal in what they lose.
+
+**II.XV** - "The time of a man's life is as a point; the substance of it ever flowing... as a dream, or as a smoke, so are all that belong unto the soul... What is it then that will adhere and follow? Only one thing, philosophy."
+
+Life is fleeting, fame is doubtful, the body corrupts. What remains? Philosophy - the practice of preserving your inner spirit from injury and keeping equanimity.
+
+"Expect death, as being nothing else but the resolution of those elements, of which every creature is composed... nothing that is according to nature can be evil."
+
+Written at Carnuntum - a Roman military camp on the Danube frontier. An emperor-philosopher commanding armies while meditating on death and meaning.
+
 ---
 
 *First reading of Marcus Aurelius - to be continued*
